@@ -1,4 +1,4 @@
-import { articles } from '../src/data/articles';
+import { articles } from './_data/articles';
 
 export default function handler(req, res) {
   console.log("GET /api/articles hit (Vercel)");

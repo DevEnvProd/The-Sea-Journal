@@ -2,7 +2,7 @@ import express from "express";
 import { createServer as createViteServer } from "vite";
 import path from "path";
 import { fileURLToPath } from "url";
-import { articles } from "./api/_data/articles";
+import { articles } from "./src/data/articles";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 

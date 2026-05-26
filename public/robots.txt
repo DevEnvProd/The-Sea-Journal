@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Specifically allow professional SEO audit bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: SemrushBot
+Allow: /
+
+User-agent: Rogerbot
+Allow: /
+
+User-agent: Dotbot
+Allow: /
+
+Sitemap: https://the-sea-journal.vercel.app/sitemap.xml

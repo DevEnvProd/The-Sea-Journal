@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Main Homepage -->
+  <url>
+    <loc>https://the-sea-journal.vercel.app/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Categories -->
+  <url>
+    <loc>https://the-sea-journal.vercel.app/category/technology</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://the-sea-journal.vercel.app/category/business</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://the-sea-journal.vercel.app/category/travel</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://the-sea-journal.vercel.app/category/environment</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://the-sea-journal.vercel.app/category/lifestyle</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Article 1 -->
+  <url>
+    <loc>https://the-sea-journal.vercel.app/article/vietnam-tech-sector-booms-supply-chains</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Article 2 -->
+  <url>
+    <loc>https://the-sea-journal.vercel.app/article/singapore-green-plan-2030-updates</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Article 3 -->
+  <url>
+    <loc>https://the-sea-journal.vercel.app/article/indonesia-digital-economy-growth-2025</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Article 4 -->
+  <url>
+    <loc>https://the-sea-journal.vercel.app/article/thailand-tourism-revival-culture</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Article 5 -->
+  <url>
+    <loc>https://the-sea-journal.vercel.app/article/malaysia-semiconductor-penang-investment</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Article 6 -->
+  <url>
+    <loc>https://the-sea-journal.vercel.app/article/philippines-renewable-energy-offshore-wind</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Article 7 -->
+  <url>
+    <loc>https://the-sea-journal.vercel.app/article/hanoi-specialty-coffee-culture</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Article 8 -->
+  <url>
+    <loc>https://the-sea-journal.vercel.app/article/cambodia-angkor-wat-tourism-rebound</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Article 9 -->
+  <url>
+    <loc>https://the-sea-journal.vercel.app/article/grab-holdings-first-profitable-quarter</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Article 10 -->
+  <url>
+    <loc>https://the-sea-journal.vercel.app/article/laos-china-railway-logistics-transform</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Article 11 -->
+  <url>
+    <loc>https://the-sea-journal.vercel.app/article/autonomous-drones-farming-suphan-buri-thailand</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Article 12 -->
+  <url>
+    <loc>https://the-sea-journal.vercel.app/article/jepara-craftsmen-digital-direct-export-indonesia</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Article 13 -->
+  <url>
+    <loc>https://the-sea-journal.vercel.app/article/eco-conscious-isolation-koh-rong-sanloem-cambodia</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Article 14 -->
+  <url>
+    <loc>https://the-sea-journal.vercel.app/article/evolution-smart-mobile-leisure-malaysia</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <!-- Article 15 -->
+  <url>
+    <loc>https://the-sea-journal.vercel.app/article/transit-entertainment-modern-lobbies-southeast-asia</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

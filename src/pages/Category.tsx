@@ -58,7 +58,15 @@ export function Category() {
   return (
     <>
       <Helmet>
-        <title>{capitalize(category || '')} News - SEA Pulse</title>
+        <title>{capitalize(category || '')} News - The SEA Journal</title>
+        <meta name="description" content={`Read the latest ${category} news, in-depth articles, and analysis on The SEA Journal.`} />
+        <meta property="og:title" content={`${capitalize(category || '')} News - The SEA Journal`} />
+        <meta property="og:description" content={`Read the latest ${category} news, in-depth articles, and analysis on The SEA Journal.`} />
+        <meta property="og:url" content={`https://the-sea-journal.vercel.app/category/${category}`} />
+        <meta property="og:type" content="website" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:title" content={`${capitalize(category || '')} News - The SEA Journal`} />
+        <meta name="twitter:description" content={`Read the latest ${category} news, in-depth articles, and analysis on The SEA Journal.`} />
       </Helmet>
 
       <main className="container mx-auto px-4 py-12 pb-20">

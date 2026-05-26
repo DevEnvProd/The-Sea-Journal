@@ -54,6 +54,47 @@ export function ArticleDetail() {
       <Helmet>
         <title>{article.title} - The SEA Journal</title>
         <meta name="description" content={article.summary} />
+        <meta property="og:title" content={`${article.title} - The SEA Journal`} />
+        <meta property="og:description" content={article.summary} />
+        <meta property="og:image" content={article.imageUrl} />
+        <meta property="og:url" content={`https://the-sea-journal.vercel.app/article/${article.slug}`} />
+        <meta property="og:type" content="article" />
+        <meta property="article:published_time" content={article.publishedAt} />
+        <meta property="article:author" content={article.author} />
+        <meta property="article:section" content={article.category} />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={article.title} />
+        <meta name="twitter:description" content={article.summary} />
+        <meta name="twitter:image" content={article.imageUrl} />
+        <script type="application/ld+json">
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "NewsArticle",
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": `https://the-sea-journal.vercel.app/article/${article.slug}`
+            },
+            "headline": article.title,
+            "image": [
+              article.imageUrl
+            ],
+            "datePublished": article.publishedAt,
+            "dateModified": article.publishedAt,
+            "author": {
+              "@type": "Person",
+              "name": article.author
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "The SEA Journal",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://the-sea-journal.vercel.app/logo-placeholder.png"
+              }
+            },
+            "description": article.summary
+          })}
+        </script>
       </Helmet>
 
       <main className="pb-20">

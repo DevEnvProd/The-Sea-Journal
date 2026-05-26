@@ -73,7 +73,27 @@ export function Home() {
     <>
       <Helmet>
         <title>The SEA Journal - Southeast Asia News</title>
-        <meta name="description" content="Breaking news, in-depth analysis and perspectives from Southeast Asia." />
+        <meta name="description" content="Breaking news, in-depth analysis and perspectives from Southeast Asia to keep you informed of political, business, technology, travel, and lifestyle updates." />
+        <meta property="og:title" content="The SEA Journal - Southeast Asia News" />
+        <meta property="og:description" content="Breaking news, in-depth analysis and perspectives from Southeast Asia to keep you informed of political, business, technology, travel, and lifestyle updates." />
+        <meta property="og:url" content="https://the-sea-journal.vercel.app/" />
+        <meta property="og:type" content="website" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="The SEA Journal - Southeast Asia News" />
+        <meta name="twitter:description" content="Breaking news, in-depth analysis and perspectives from Southeast Asia." />
+        <script type="application/ld+json">
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "The SEA Journal",
+            "url": "https://the-sea-journal.vercel.app/",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://the-sea-journal.vercel.app/search?q={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
+          })}
+        </script>
       </Helmet>
 
       <main className="pb-20 bg-white text-black">

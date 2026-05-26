@@ -112,11 +112,22 @@ export function ArticleDetail() {
             {/* Main Text */}
             <div className="lg:col-span-8">
               <div className="prose prose-lg prose-gray max-w-none font-serif">
-                {article.content.split('\n\n').map((paragraph, index) => (
-                  <p key={index} className="mb-6">
-                    {paragraph}
-                  </p>
-                ))}
+                {article.content.split('\n\n').map((paragraph, index) => {
+                  if (paragraph.includes('<a') || paragraph.includes('</a>')) {
+                    return (
+                      <p 
+                        key={index} 
+                        className="mb-6 text-gray-800 leading-relaxed"
+                        dangerouslySetInnerHTML={{ __html: paragraph }}
+                      />
+                    );
+                  }
+                  return (
+                    <p key={index} className="mb-6 text-gray-800 leading-relaxed">
+                      {paragraph}
+                    </p>
+                  );
+                })}
               </div>
             </div>
           </div>

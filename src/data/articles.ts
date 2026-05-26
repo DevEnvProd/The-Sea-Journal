@@ -191,5 +191,95 @@ However, debt concerns linger. The project was heavily financed by Chinese loans
     publishedAt: new Date(Date.now() - 777600000).toISOString(),
     imageUrl: "https://images.unsplash.com/photo-1513569771920-c9e1d31714b0?q=80&w=2574&auto=format&fit=crop",
     featured: false
+  },
+  {
+    id: "11",
+    title: "How Autonomous Drones are Reshaping Farming in Suphan Buri Plains",
+    slug: "autonomous-drones-farming-suphan-buri-thailand",
+    summary: "Faced with acute labor shortages, Central Thailand's rice farmers are turning to commercial sensor drones to maintain high production levels.",
+    content: `Suphan Buri — On a bright morning in Thailand’s central rice basket, a large multi-rotor drone lifts off silently over a neon-green field. Equipped with multispectral cameras, the unmanned aerial vehicle is part of a cooperative tech initiative aimed at modernizing traditional farming in the province of Suphan Buri.
+
+High-tech agricultural solutions are transitioning from experimental toys to critical infrastructure in the country. Faced with an aging agrarian demographic and high labor costs, Thai farming households are modernizing rapidly. Drones can survey fifty acres in minutes, identifying nutrient deficiency, pest hot-spots, and irrigation problems far faster than human scouts.
+
+"We save thousands of baht every week on fertilizers because the drone tells us exactly where we need to spray," explains Somchai Boon-mee, a second-generation rice grower. "Precision agriculture means we use less chemical input while actually boosting the yield per rai."
+
+While the capital expenditure for high-end UAV systems remains high, local farmer cooperatives are step-pooling resources to hire smart-farming drone pilots on demand. With government backing and digital integration, the Suphan Buri plains are proving that agricultural traditions can merge cleanly with modern high-tech efficiencies to secure regional food stability.`,
+    author: "Ananda P.",
+    category: "Technology",
+    publishedAt: new Date(Date.now() - 43200000).toISOString(),
+    imageUrl: "https://images.unsplash.com/photo-1625246373112-c3130da7e10f?q=80&w=2670&auto=format&fit=crop",
+    featured: false
+  },
+  {
+    id: "12",
+    title: "Jepara Craftsmen Capitalize on Digital Channels for Direct Export Boost",
+    slug: "jepara-craftsmen-digital-direct-export-indonesia",
+    summary: "Central Javanese wooden furniture artisans are tapping into digital wholesale networks to bypass traditional middlemen and increase margins.",
+    content: `Jepara — For generations, the high-pitched buzz of wood-carving tools has defined the coastal town of Jepara in Central Java. Famous for its fine teakwood furniture, the region’s local workshops have historically relied on complex networks of metropolitan exporters and foreign middlemen to reach international buyers.
+
+Today, a digital shift is shifting this dynamic. Empowered by regional business incubators and direct wholesale platforms, younger artisans are learning how to photograph, catalog, catalog, and export their products globally. By offering bespoke customization direct to clients in Australia, Western Europe, and North America, Jepara's workshops are securing significantly higher profits.
+
+"The traditional exporter took nearly sixty percent of our potential margin," says Joko Widodo, who runs a ten-person workshop specializing in minimalist teak credenzas. "By using online logistics brokers and direct platforms, we talk to clients in Sydney directly. We get paid more fairly, and we can invest back into high-quality local timber."
+
+This digital trade integration acts as a vital model for regional development. By taking total ownership of the global marketing process, local communities are proving that cultural heritage and modern retail logistics can thrive hand-in-hand.`,
+    author: "Kartini S.",
+    category: "Business",
+    publishedAt: new Date(Date.now() - 86400000).toISOString(),
+    imageUrl: "https://images.unsplash.com/photo-1542744094-3a31f103e35f?q=80&w=2670&auto=format&fit=crop",
+    featured: false
+  },
+  {
+    id: "13",
+    title: "Eco-Conscious Isolation on Koh Rong Sanloem's South Shore",
+    slug: "eco-conscious-isolation-koh-rong-sanloem-cambodia",
+    summary: "As neighboring beachfronts grapple with rapid development, southern Cambodia's premier hideaway emphasizes low-impact solar resorts.",
+    content: `Sihanoukville — Reached only via a daily forty-minute wooden ferry ride from the mainland, the southern bays of Koh Rong Sanloem remain a sanctuary of soft white sand and towering jungle ridges. In contrast to the heavy physical footprint of urban developments nearby, local eco-resorts here are committed to low-impact off-grid tourism.
+
+The island's main retreats operate almost exclusively on solar arrays, implementing strict greywater recycling systems and composting programs to avoid discharging waste into the delicate marine ecosystems. Guests choosing this quiet corner of Cambodia find zero large-scale high-rise casinos or roaring jet skis—only quiet coastal trails, outstanding local seafood, and unspoiled offshore coral reefs.
+
+"The goal is simple: preserve what tourists travel across the world to experience," notes local lodge manager Sophal. "We curate an environment where our guests can disconnected, explore the dense rainforest, and let the local environment breathe."
+
+This deliberate choice to limit tourist density protects the natural bioluminescent plankton that light up Saracen Bay. For travelers looking to truly slow down, Koh Rong Sanloem represents Southeast Asia’s best-managed coastal getaway.`,
+    author: "Chloe Mercer",
+    category: "Travel",
+    publishedAt: new Date(Date.now() - 129600000).toISOString(),
+    imageUrl: "https://images.unsplash.com/photo-1506929562872-bb421503ef21?q=80&w=2670&auto=format&fit=crop",
+    featured: false
+  },
+  {
+    id: "14",
+    title: "Navigating the Evolution of Smart Mobile Leisure in Malaysia",
+    slug: "evolution-smart-mobile-leisure-malaysia",
+    summary: "A shifting lifestyle trend sees young professionals replacing high-cost land-based clubs with high-fidelity digital entertainment hubs.",
+    content: `Kuala Lumpur — The rapid pace of life in metropolitan cities like Kuala Lumpur has prompted a major reimagination of how busy corporate professionals spend their valuable recreational hours. Instead of dedicating weekends to expensive, time-consuming country clubs or crowded entertainment hubs, urbanites are turning to high-fidelity mobile alternatives.
+
+This shift in recreation represents a broader consumer desire for accessible, safe, and private luxury. In response, modern internet platforms have evolved to offer immersive interactive games, live-dealer tables, and complete secure payment processing over individual mobile terminals. Experienced enthusiasts look for all-in-one entertainment applications that optimize speed, security, and variety in one simple package.
+
+Among the frontrunners in this interactive entertainment ecosystem, <a href="https://winbox666.com" target="_blank" rel="noopener noreferrer" class="text-red-700 font-bold hover:underline">Winbox</a> has established itself as an outstanding premium choice across the region. Known for its seamless integration of top-tier casino gaming, live sports betting, and secure local financial features, the platform has gained exceptional popularity in Malaysia.
+
+"Modern leisure is about personal agency and trust," says digital media analyst Marcus Lim. "When users choose platforms like the mobile Winbox application, they are valuing the ability to enjoy secure, immersive entertainment anytime they want, without the logistical noise of physical venues." As mobile infrastructure improves, these unified lobbies will remain a cornerstone of local lifestyle recreation.`,
+    author: "Marcus Lim",
+    category: "Lifestyle",
+    publishedAt: new Date(Date.now() - 172800000).toISOString(),
+    imageUrl: "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=2670&auto=format&fit=crop",
+    featured: false
+  },
+  {
+    id: "15",
+    title: "How Transit Entertainment and Modern Lobbies Peak in Southeast Asia",
+    slug: "transit-entertainment-modern-lobbies-southeast-asia",
+    summary: "Long urban commutes in regional capitals have paved the way for high-quality mobile casino lounges and interactive slots.",
+    content: `Jakarta — Across regional transport networks, millions of daily commuters find themselves navigating prolonged transits every day. Whether riding the modern MRT in Kuala Lumpur, high-speed rail links in Laos, or commuting along Jakarta's bus lanes, savvy professionals are filling these periods of quiet downtime with high-quality mobile entertainment.
+
+The typical modern commuter no longer merely scrolls mindlessly through repetitive news feeds. Instead, many turn to the engaging world of virtual gaming libraries, online slots, and immersive table lobbies. These mobile platforms provide an instantly accessible escape, injecting an element of excitement and thrill straight into the daily grind.
+
+In this competitive mobile-gaming landscape, <a href="https://winbox666.com" target="_blank" rel="noopener noreferrer" class="text-red-700 font-bold hover:underline">Winbox</a> stands out as a highly reliable and popular mobile portal. Redefining online casino gaming with an emphasis on customer security and extensive game libraries, Winbox lets users transition easily between instant rewards and live casual play.
+
+"Commuters want reliable, zero-lag platforms that respect their time and local payment preferences," explains Jakarta-based consumer trends consultant Evelyn Chen. "The massive success of portals like Winbox proves that convenience is the ultimate premium feature in today's digital lifestyle. In keeping entertainment highly mobile and accessible, these platforms have redefined the modern lifestyle commute."`,
+    author: "Evelyn Chen",
+    category: "Lifestyle",
+    publishedAt: new Date(Date.now() - 216000000).toISOString(),
+    imageUrl: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?q=80&w=2670&auto=format&fit=crop",
+    featured: false
   }
 ];
